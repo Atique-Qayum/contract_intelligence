@@ -1,0 +1,98 @@
+{
+  "H-01_Orion_Retail_Holdings.docx": {
+    "contract_id": "EE-2026-014",
+    "client_name": "Orion Retail Holdings",
+    "programme": "Leading Digital Transformation",
+    "start_date": "2026-03-03",
+    "end_date": "2026-03-07",
+    "participants": 18,
+    "currency": "EUR",
+    "contract_value": 126000.0,
+    "payment_terms_present": true,
+    "cancellation_terms_present": true
+  },
+  "H-02_Orion_Retail_Holdings.docx": {
+    "contract_id": "EE-2026-015",
+    "client_name": "Orion Retail Holdings",
+    "programme": "Strategic Finance for Leaders",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-19",
+    "participants": 12,
+    "currency": "USD",
+    "contract_value": 96000.0,
+    "payment_terms_present": true,
+    "cancellation_terms_present": true
+  },
+  "H-03_Pacific_Cargo.docx": {
+    "contract_id": "EE-2026-016",
+    "client_name": "Pacific Cargo",
+    "programme": "Advanced Management Programme",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-11",
+    "participants": 25,
+    "currency": "SGD",
+    "contract_value": 275000.0,
+    "payment_terms_present": false,
+    "cancellation_terms_present": true
+  },
+  "H-04_Nordic_Health.docx": {
+    "contract_id": "EE-2026-017",
+    "client_name": "Nordic Health",
+    "programme": "Leading Digital Transformation",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-16",
+    "participants": 20,
+    "currency": "EUR",
+    "contract_value": 168000.0,
+    "payment_terms_present": true,
+    "cancellation_terms_present": false
+  },
+  "H-05_Sahara_Energy.docx": {
+    "contract_id": "EE-2026-018",
+    "client_name": "Sahara Energy",
+    "programme": "Advanced Management Programme",
+    "start_date": "2026-02-02",
+    "end_date": "2026-02-06",
+    "participants": 30,
+    "currency": "USD",
+    "contract_value": 345000.0,
+    "payment_terms_present": true,
+    "cancellation_terms_present": true
+  },
+  "H-06_Sahara_Energy.docx": {
+    "contract_id": "EE-2026-019",
+    "client_name": "Sahara Energy",
+    "programme": "Strategic Finance for Leaders",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-13",
+    "participants": 10,
+    "currency": "EUR",
+    "contract_value": 89500.0,
+    "payment_terms_present": false,
+    "cancellation_terms_present": false
+  },
+  "H-07_Lumen_Telecom.docx": {
+    "contract_id": "EE-2026-020",
+    "client_name": "Lumen Telecom",
+    "programme": "Leading Digital Transformation",
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-17",
+    "participants": 16,
+    "currency": "SGD",
+    "contract_value": 132000.0,
+    "payment_terms_present": true,
+    "cancellation_terms_present": true
+  },
+  "H-08_Lumen_Telecom.docx": {
+    "contract_id": "EE-2026-021",
+    "client_name": "Lumen Telecom",
+    "programme": "Advanced Management Programme",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-22",
+    "participants": 22,
+    "currency": "EUR",
+    "contract_value": 242000.0,
+    "payment_terms_present": true,
+    "cancellation_terms_present": false
+  }
+}

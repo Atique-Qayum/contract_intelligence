@@ -1,0 +1,7 @@
+python-docx
+reportlab
+pypdf
+pydantic>=2
+pandas
+# optional, only for --mode llm:
+# anthropic

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+outputs/pipeline.db
+outputs/extracted*.jsonl
+install.cmd
